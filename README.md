@@ -1,2 +1,2 @@
-# book_bot
+This is my first attempt at a project with Python!
  
